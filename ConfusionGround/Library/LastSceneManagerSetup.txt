@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TinyDungeons/Scenes/Dungeon_PC.unity
+  isLoaded: 1
+  isActive: 1
